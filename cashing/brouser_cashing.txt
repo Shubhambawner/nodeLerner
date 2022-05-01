@@ -1,0 +1,3 @@
+(disk cache)
+(memory cache)
+so site loads faster in the first time
